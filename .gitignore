@@ -6,7 +6,6 @@
 *.ide-wal
 .vs
 Source/ModName/.vs
-Source/ModName/ModName.code-workspace
 Source/ModName/ModName.csproj.user
 Source/ModName/obj
 Source/ModName/Properties/AssemblyInfo.cs
